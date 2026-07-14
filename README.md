@@ -1,11 +1,11 @@
 # Patrones de diseño
 
-### Instalar tsx
+## Instalar tsx
 ```bash
 npm install -g tsx
 ```
 
-### Ejecutar archivo
+## Ejecutar archivo
 ```bash
 tsx 01-singleton.ts
 ```
