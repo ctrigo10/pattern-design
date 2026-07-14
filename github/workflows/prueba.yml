@@ -1,0 +1,20 @@
+name: Demo CI
+
+on: push
+
+jobs:
+  demo:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: inicio
+        run: echo "iniciando flujo"
+
+      - name: 1-checkout
+        run: echo "clonando repo"
+
+      - name: 2-instalar dependencias
+        run: echo "instalando dependencias"
+
+      - name: 3-ejecutar codigo
+        run: echo "iniciando flujo"
