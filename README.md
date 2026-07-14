@@ -10,4 +10,4 @@ npm install -g tsx
 tsx 01-singleton.ts
 ```
 
-FIN DEL CURSO desde rama1
+FIN DEL CURSO
